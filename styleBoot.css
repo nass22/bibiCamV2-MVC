@@ -1,0 +1,40 @@
+h1{
+    padding-top: 20px;
+    text-align: center;
+    color: #CE97B0;
+    font-family: cursive;
+}
+
+div{
+    padding-bottom: 20px;
+}
+
+.backgroundCol{
+    
+    background-color: #557571;
+}
+
+input{
+    background-color: #F7D1BA;
+}
+
+.padding10{
+    padding: 10px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.pastelRed{
+    color:#F05454;
+}
+
+.paddingTop{
+    padding-top: 3px;
+}
+
+.strong{
+    font-weight: bold;
+}
